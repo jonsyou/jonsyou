@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is JongSoo Hwang
+My name is JongSoo Hwang  
 nice to meet you
 
 I'm
