@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is JongSoo Hwang  
-nice to meet you
+My name is **JongSoo Hwang**.  
+Nice to meet you
 
-I'm
+**I'm**
 - from Korea.
 - a Data Analyst.
 
