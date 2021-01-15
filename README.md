@@ -7,6 +7,8 @@ Nice to meet you
 - from Korea.
 - a Data Analyst.
 
+---
+
 ### It doesn't matter how slow you go. Just as long as you don't stop.
 
 <!--
