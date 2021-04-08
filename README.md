@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-My name is **JongSoo Hwang**.  
-Nice to meet you
+My name is **JongSoo Hwang**.
+🌱 I'm working hard to become a good data analyst.
+😄 Nice to meet you.
 
 **I'm**
 - from Korea.
